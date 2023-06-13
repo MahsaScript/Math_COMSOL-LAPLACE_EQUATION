@@ -1,2 +1,3 @@
 # COMSOL-LAPLACE_EQUATION
 COMSOL-LAPLACE_EQUATION
+![laplace_equation](https://github.com/RoshaSoft/COMSOL-LAPLACE_EQUATION/assets/85801966/3cbef7b3-7950-4e27-bd9a-075b7e61bd81)
